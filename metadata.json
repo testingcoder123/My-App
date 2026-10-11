@@ -1,0 +1,6 @@
+{
+  "name": "Citation & Listing Discovery Platform",
+  "description": "Enterprise citation auditing, open-web listing discovery, and NAP consistency verification platform powered by Serper.dev.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
